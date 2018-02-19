@@ -25,7 +25,7 @@ public class Sommatore
 	{
 		for (int i = 0; i < 1000; i++)
 			x++;
-		return x;
+		return x+1000;
 			
 	}
 
