@@ -13,18 +13,12 @@ public class Sommatore
 	
 	public static int somma20(int x)
 	{
-		for (int i = 0; i < 20; i++)
-			x++;
-		return x;
-			
+		return x+20;		
 	}
 	
 	public static int somma100(int x)
 	{
-		for (int i = 0; i < 100; i++)
-			x++;
-		return x;
-			
+		return x+100;
 	}
 	
 	public static int somma200(int x)
